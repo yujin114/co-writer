@@ -1,0 +1,5 @@
+name: ㅓ
+strokes:
+  - points: [[0, 7], [2, 7]]         # 가운데 가로선 (y=5)
+  - points: [[2, 0], [2, 13]]         # 세로획 
+z_offset: 5.0

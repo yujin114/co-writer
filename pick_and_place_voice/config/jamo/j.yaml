@@ -1,0 +1,7 @@
+name: ㅈ
+strokes:
+  - points: [[0, 0], [10, 0]]
+  - points: [[10, 0], [0, 8]]
+  - points: [[5, 4], [10, 8]]
+
+z_offset: 5.0

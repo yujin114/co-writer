@@ -1,0 +1,4 @@
+name: ㅡ
+strokes:
+  - points: [[0, 3], [10, 3]]  # y = 6에 위치시켜 위·아래 균형 맞춤
+z_offset: 5.0

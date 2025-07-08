@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['black_pen', 'blue_pen', 'red_pen']
+
+roboflow:
+  workspace: f3
+  project: pen-detect-ls59g
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/f3/pen-detect-ls59g/dataset/1
