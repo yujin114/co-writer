@@ -40,12 +40,12 @@ ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 hos
 
 터미널 2 (UI 실행)
 ```bash
-ros2 run gui gui
+ros2 run pick_and_place_voice gui
 ```
 
 터미널 3 (전체 제어)
 ```bash
-ros2 launch 
+ros2 launch pick_and_place_voice draw_robot_launch
 ```
 
 ---
