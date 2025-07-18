@@ -40,12 +40,12 @@ ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 hos
 
 터미널 2 (UI 실행)
 ```bash
-ros2 run gui 
+ros2 run gui gui
 ```
 
 터미널 3 (전체 제어)
 ```bash
-ros2 run wr_robot visual
+ros2 launch 
 ```
 
 ---
