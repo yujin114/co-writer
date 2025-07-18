@@ -49,8 +49,6 @@ ros2 run wr_robot visual
 ```
 
 ---
-      </a>
-    </td>
   </tr>
 </table>
 
